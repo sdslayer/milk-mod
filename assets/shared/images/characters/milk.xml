@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="milk.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Milk Idle0000" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="Milk Idle0001" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="Milk Idle0002" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="Milk Idle0003" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="Milk Idle0004" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="Milk Idle0005" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="Milk Idle0006" x="1500" y="0" width="500" height="500"/>
+	<SubTexture name="Milk Idle0007" x="1500" y="0" width="500" height="500"/>
+	<SubTexture name="Milk Right Note0000" x="0" y="500" width="500" height="500"/>
+	<SubTexture name="Milk Right Note0001" x="0" y="500" width="500" height="500"/>
+	<SubTexture name="Milk Right Note0002" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="Milk Right Note0003" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="Milk Right Note0004" x="1000" y="500" width="500" height="500"/>
+	<SubTexture name="Milk Right Note0005" x="1000" y="500" width="500" height="500"/>
+	<SubTexture name="Milk Left Note0000" x="1500" y="500" width="500" height="500"/>
+	<SubTexture name="Milk Left Note0001" x="1500" y="500" width="500" height="500"/>
+	<SubTexture name="Milk Left Note0002" x="2000" y="500" width="500" height="500"/>
+	<SubTexture name="Milk Left Note0003" x="2000" y="500" width="500" height="500"/>
+	<SubTexture name="Milk Left Note0004" x="2500" y="500" width="500" height="500"/>
+	<SubTexture name="Milk Left Note0005" x="2500" y="500" width="500" height="500"/>
+	<SubTexture name="Milk Up Note0000" x="0" y="1000" width="500" height="500"/>
+	<SubTexture name="Milk Up Note0001" x="0" y="1000" width="500" height="500"/>
+	<SubTexture name="Milk Up Note0002" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="Milk Up Note0003" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="Milk Up Note0004" x="1000" y="1000" width="500" height="500"/>
+	<SubTexture name="Milk Up Note0005" x="1000" y="1000" width="500" height="500"/>
+	<SubTexture name="Milk Down Note0000" x="1500" y="1000" width="500" height="500"/>
+	<SubTexture name="Milk Down Note0001" x="1500" y="1000" width="500" height="500"/>
+	<SubTexture name="Milk Down Note0002" x="2000" y="1000" width="500" height="500"/>
+	<SubTexture name="Milk Down Note0003" x="2000" y="1000" width="500" height="500"/>
+	<SubTexture name="Milk Down Note0004" x="2500" y="1000" width="500" height="500"/>
+	<SubTexture name="Milk Down Note0005" x="2500" y="1000" width="500" height="500"/>
+</TextureAtlas>

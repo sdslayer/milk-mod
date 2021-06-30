@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="senpaiPortrait2.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Senpai Portrait2 Enter instance 10000" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="Senpai Portrait2 Enter instance 10001" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="Senpai Portrait2 Enter instance 10002" x="200" y="0" width="200" height="200"/>
+	<SubTexture name="Senpai Portrait2 Enter instance 10003" x="200" y="0" width="200" height="200"/>
+	<SubTexture name="Senpai Portrait2 Enter instance 10004" x="400" y="0" width="200" height="200"/>
+	<SubTexture name="Senpai Portrait2 Enter instance 10005" x="400" y="0" width="200" height="200"/>
+	<SubTexture name="Senpai Portrait2 Enter instance 10006" x="600" y="0" width="200" height="200"/>
+	<SubTexture name="Senpai Portrait2 Enter instance 10007" x="600" y="0" width="200" height="200"/>
+</TextureAtlas>
